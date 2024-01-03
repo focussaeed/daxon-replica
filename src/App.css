@@ -1,0 +1,105 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+            /* **************Nav Bar Section ************** */
+
+.navbar {
+   background-color: rgb(204, 248, 248);
+   display: flex;
+   justify-content: space-evenly;
+   align-items: start;
+  }
+
+.logoimage {
+    width: 150px;
+    height: 30px;    
+}
+
+.btn-style {
+    background-color: green;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+    width: 120px;
+    padding: 10px 15px;
+
+}
+
+
+.sec2A {
+    text-align: center;
+}
+
+.secB5 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 4em;
+    color: red;
+}
+
+.secB6 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 4em;
+
+}
+
+.sec3A {
+    background-color: rgb(160, 199, 233);
+    text-align:  center;
+    min-height: 650px;
+ 
+}
+
+.sec3B {
+    padding: 50px;
+    background-image: url("./assets/background-3.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto;
+    /* width: 100%; */
+    min-height: 650px;
+}
+
+.sec3C {
+    margin-top: 100px;
+    margin-left: 600px;
+
+}
+
+.sec4A {
+        background-color: aquamarine;
+        min-height: 600px;
+
+}
+
+.sec5B {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3em;
+
+}
+
+.bottom1 {
+
+    background-color: rgb(204, 248, 248);
+    border-radius: 10px;
+    min-height: 300px;
+    padding-top: 50px;
+}
+
+.bottom2 {
+   display: block;
+   justify-content: center;
+   text-align: center;
+   align-items: center;
+
+}
+
+.bottom3 {
+    text-align: center;
+}
+.bottom3 ul {
+    
+    list-style: none;
+
+}
