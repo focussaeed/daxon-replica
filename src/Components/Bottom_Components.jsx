@@ -14,6 +14,7 @@ const Bottom_Components= () => {
                         <i class="fa-brands fa-whatsapp fa-lg  p-4"></i>
                         <i class="fa-brands fa-square-facebook fa-lg  p-4"></i>
                         <i class="fa-brands fa-square-twitter fa-lg  p-4"></i>
+                        <i class="fa-solid fa-cart-shopping fa-lg p-4"></i>
                         </div>
                         
                     </div>
